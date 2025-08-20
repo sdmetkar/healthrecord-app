@@ -1,0 +1,7 @@
+# .dockerignore for React app
+node_modules
+build
+.dockerignore
+Dockerfile
+npm-debug.log
+.env
